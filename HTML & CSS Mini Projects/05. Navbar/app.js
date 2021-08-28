@@ -10,3 +10,5 @@ const links = getElement(".links");
 navToggle.addEventListener("click", function () {
   links.classList.toggle("show-links");
 });
+// - completed the navbar mini project
+// - fixed commit name error from sidebar to navbar
