@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=lCxfo8tvHqk
 
 Project #4 - CSS SVG Fire Text Animation Effects | Animated Text Typography - Credit goes to the awesome Online Tutorials YT Channel
 https://youtu.be/FbChgmBVxtw
+
+Project #5 - Colorful Smoke Video and Text Manipulation Using CSS Only - Credit goes to the awesome Online Tutorials YT Channel
+https://youtu.be/IpS31T9jSCw
