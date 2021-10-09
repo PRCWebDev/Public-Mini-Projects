@@ -1,5 +1,9 @@
 # Public-Mini-Projects
 
+Project #7 - #100DaysOfCode Challenge
+CSS Responsive Card Hover Effects | Html & CSS - All credit goes to the awesome Online Tutorials YT Channel
+https://youtu.be/8b2mTq0Xrtw
+
 Project #6 - #100DaysOfCode Challenge
 How to Make Responsive Animated Website Footer using Html & CSS | Simple Website Footer Design - Credit goes to the awesome Online Tutorials YT Channel
 https://youtu.be/UpkEANWC2Ms
