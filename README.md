@@ -1,10 +1,16 @@
 # Public-Mini-Projects 🚀
 
-Project #9 - #100DaysOfCode Challenge Day 07
+## Project #10 - #100DaysOfCode Challenge Day 08
+
+[CSS Layered Card Hover Effects | HTML CSS Responsive Design](https://youtu.be/-zz1EV35WK0) - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
+## Project #9 - #100DaysOfCode Challenge Day 07
+
 CSS Layered Card Hover Effects | HTML CSS Responsive Design - All credit goes to the awesome Online Tutorials YT Channel 🙏
 https://youtu.be/gdVOG23s5yA
 
-Project #8 - #100DaysOfCode Challenge Day 04
+## Project #8 - #100DaysOfCode Challenge Day 04
+
 CSS Glowing Text Hover Effects - All credit goes to the awesome Online Tutorials YT Channel 🙏
 https://youtu.be/I_RhD99rR0c
 
