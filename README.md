@@ -1,47 +1,51 @@
 # Public-Mini-Projects 🚀
 
-## Practice Project #10
+## Practice Project #10 - #100DaysOfCode Challenge - Day 08 ✅
 
-### #100DaysOfCode Challenge - Day 08
+[CSS Layered Card Hover Effects | HTML CSS Responsive Design](https://youtu.be/-zz1EV35WK0)
+All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
-[CSS Layered Card Hover Effects | HTML CSS Responsive Design](https://youtu.be/-zz1EV35WK0) - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+## Practice Project #9 - #100DaysOfCode Challenge - Day 07 ✅
 
-## Practice Project #9
+[CSS Layered Card Hover Effects | HTML CSS Responsive Design](https://youtu.be/gdVOG23s5yA)
+All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
-### #100DaysOfCode Challenge - Day 07
+## Practice Project #8 - #100DaysOfCode Challenge - Day 04 ✅
 
-[CSS Layered Card Hover Effects | HTML CSS Responsive Design](https://youtu.be/gdVOG23s5yA) - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+[CSS Glowing Text Hover Effects](https://youtu.be/I_RhD99rR0c)
+All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
-## Practice Project #8 - #100DaysOfCode Challenge - Day 04
+## Practice Project #7 - #100DaysOfCode Challenge - Day 06 ✅
 
-[CSS Glowing Text Hover Effects](https://youtu.be/I_RhD99rR0c) - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+[CSS Responsive Card Hover Effects | HTML & CSS](https://youtu.be/8b2mTq0Xrtw)
+All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
-## Practice Project #7 - #100DaysOfCode Challenge - Day 06
+## Practice Project #6 - #100DaysOfCode Challenge - Day 05 ✅
 
-[CSS Responsive Card Hover Effects | HTML & CSS](https://youtu.be/8b2mTq0Xrtw) - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+[How to Make Responsive Animated Website Footer using HTML & CSS | Simple Website Footer Design](https://youtu.be/UpkEANWC2Ms)
+All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
-## Practice Project #6 - #100DaysOfCode Challenge - Day 05
+## Practice Project #5 - #100DaysOfCode Challenge - Day 03 ✅
 
-[How to Make Responsive Animated Website Footer using HTML & CSS | Simple Website Footer Design](https://youtu.be/UpkEANWC2Ms) - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+[Colorful Smoke Video and Text Manipulation Using CSS Only](https://youtu.be/IpS31T9jSCw)
+All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
-## Practice Project #5 - #100DaysOfCode Challenge - Day 03
+## Practice Project #4 - #100DaysOfCode Challenge - Day 02 ✅
 
-[Colorful Smoke Video and Text Manipulation Using CSS Only](https://youtu.be/IpS31T9jSCw) - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+[CSS SVG Fire Text Animation Effects | Animated Text Typography](https://youtu.be/FbChgmBVxtw)
+All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
-## Practice Project #4 - #100DaysOfCode Challenge - Day 02
+## Practice Project #3 - #100DaysOfCode Challenge - Day 01 ✅
 
-[CSS SVG Fire Text Animation Effects | Animated Text Typography](https://youtu.be/FbChgmBVxtw) - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+[Awesome CSS Border Animation](https://www.youtube.com/watch?v=LYgQXOV-x24) + [Creative CSS Button Hover Effects | Glowing Gradient Border Effects using Html & CSS](https://www.youtube.com/watch?v=lCxfo8tvHqk)
+All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
-## Practice Project #3 - #100DaysOfCode Challenge - Day 01
+## Practice Project #2 ✅
 
-[Awesome CSS Border Animation](https://www.youtube.com/watch?v=LYgQXOV-x24) + [Creative CSS Button Hover Effects | Glowing Gradient Border Effects using Html & CSS](https://www.youtube.com/watch?v=lCxfo8tvHqk) - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+HTML & CSS Mini Projects
+All credit goes to the awesome John Smilga for creating these HTML & CSS Practice Projects in his amazing [HTML & CSS Tutorial and Projects Course](https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/) 🙏 😍 🔥
 
-## Practice Project #2
+## Practice Project #1 ✅
 
-HTML & CSS Mini Projects - All credit goes to the awesome John Smilga for creating these HTML & CSS Practice Projects in his amazing HTML & CSS Tutorial and Projects Course 🙏 😍 🔥
-https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/
-
-## Practice Project #1
-
-Grid Mini Projects - All credit goes to the awesome John Smilga for creating these CSS Grid Practice Projects in his amazing HTML & CSS Tutorial and Projects Course 🙏 😍 🔥
-https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/
+Grid Mini Projects
+All credit goes to the awesome John Smilga for creating these CSS Grid Practice Projects in his amazing [HTML & CSS Tutorial and Projects Course](https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/) 🙏 😍 🔥
