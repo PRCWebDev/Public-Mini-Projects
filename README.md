@@ -1,5 +1,10 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #11 - #100DaysOfCode Challenge - Day 09 ✅
+
+Lisbon Chair Shop Landing Page
+All credit goes to the awesome Jonas Schmedtmann for creating this Practice Project in his amazing course 🙏 😍 🔥
+
 ## Practice Project #10 - #100DaysOfCode Challenge - Day 08 ✅
 
 [CSS Layered Card Hover Effects | HTML CSS Responsive Design](https://youtu.be/-zz1EV35WK0)
