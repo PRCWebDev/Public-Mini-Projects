@@ -1,9 +1,14 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #12 - #100DaysOfCode Challenge - Day 10 ✅
+
+FreeCodeCamp Certification - Responsive Web Design Projects
+✅ Project #1 - Build a Tribute Page ✅
+
 ## Practice Project #11 - #100DaysOfCode Challenge - Day 09 ✅
 
 Lisbon Chair Shop Landing Page
-All credit goes to the awesome Jonas Schmedtmann for creating this Practice Project in his amazing course 🙏 😍 🔥
+All credit goes to the awesome Jonas Schmedtmann for creating this Practice Project in his amazing [HTML5, CSS3 and Web Design course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 🙏 😍 🔥
 
 ## Practice Project #10 - #100DaysOfCode Challenge - Day 08 ✅
 
