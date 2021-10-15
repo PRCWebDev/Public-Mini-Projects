@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/* Jonas */
+.accordion {
+        max-width: 700px;
+        margin: 10px auto;
+
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+      }
+
+      .item {
+        box-shadow: 0 0 32px rgba(0, 0, 0, 0.1);
+        padding: 24px;
+        display: grid;
+        grid-template-columns: auto 1fr auto;
+        column-gap: 24px;
+        row-gap: 32px;
+        align-items: center;
+      }
+
+      .number,
+      .text {
+        font-size: 24px;
+        font-weight: 500;
+        /* color: #087f5b; */
+      }
+
+      .number {
+        color: #ced4da;
+      }
+
+      .icon {
+        width: 24px;
+        height: 24px;
+        stroke: #087f5b;
+      }
+
+      .hidden-box {
+        grid-column: 2;
+        display: none;
+      }
+
+      .hidden-box p {
+        line-height: 1.6;
+        margin-bottom: 24px;
+      }
+
+      .hidden-box ul {
+        color: #868e96;
+        margin-left: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      /* OPEN STATE */
+      .open {
+        border-top: 4px solid #087f5b;
+      }
+
+      .open .hidden-box {
+        display: block;
+      }
+
+      .open .number,
+      .open .text {
+        color: #087f5b;
+      }
+/* end of Jonas */
+
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5rem ;
+  border: 4px solid green;
+  margin: 10px auto;
+  max-width: 700px;
+  /* width: 100%; */
+  line-height: 1.2;
+}
+
+summary {
+  font-weight: bold;
+  padding: 0.5rem;
+}
+
+details[open] {
+  padding: 0.5rem;
+}
+
+details[open] summary {
+  border-bottom: 2px solid #087f5b;
+  margin-bottom: 0.5rem;
+}
+
+.icon {
+  width: 1rem;
+  height: 1rem;
+  stroke: #087f5b;
+}
+
+.span-1{
+  color: gold;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.span-2{
+  color: #087f5b;
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 5px;
+  margin-right: 135px;
+  
+}
+
+.hidden-box,
+.expanded {
+  border: 5px solid gold;
+}
+
+summary::marker{
+  color: red;
+  font-size: 20px;
+}
+
+h3{
+  margin: 15px;
+  text-decoration: underline;
+  color: #087f5b;
+}
