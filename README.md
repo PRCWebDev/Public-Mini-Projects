@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #14 - #100DaysOfCode Challenge - Day 12 ✅
+
+Jonas Accordion (from the course) vs Radu [Details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details) Custom Project
+
+- All credit goes to the awesome Jonas Schmedtmann for creating this Practice Project in his amazing [HTML5, CSS3 and Web Design course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 🙏 😍 🔥
+
 ## Practice Project #13 - #100DaysOfCode Challenge - Day 11 ✅
 
 [FreeCodeCamp Certification](https://www.freecodecamp.org/learn) 🔥 🚀 - [Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/)
