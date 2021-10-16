@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #15 - #100DaysOfCode Challenge - Day 13 ✅
+
+[CSS Text Typing Menu Item Hover Effects | CSS Typewriter Animation](https://youtu.be/AynSfsJPzhk)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #14 - #100DaysOfCode Challenge - Day 12 ✅
 
 Jonas Accordion (from the course) vs Radu [Details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details) Custom Project
