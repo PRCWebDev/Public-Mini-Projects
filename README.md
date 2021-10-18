@@ -1,5 +1,13 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #16 - #100DaysOfCode Challenge - Day 16 ✅
+
+Created a Markdown Cheatsheet for myself based on these awesome FREE resources:
+
+- [Markdown Crash Course by Brad Traversy](https://youtu.be/HUBNt18RFbo)
+- [Learn Markdown in 30 minutes! by Faraday Academy](https://youtu.be/bTVIMt3XllM)
+- [Markdown Cheat Sheet - A quick reference to the Markdown syntax](https://markdownguide.org/cheat-sheet/)
+
 ## Practice Project #15 - #100DaysOfCode Challenge - Day 13 ✅
 
 [CSS Text Typing Menu Item Hover Effects | CSS Typewriter Animation](https://youtu.be/AynSfsJPzhk)
