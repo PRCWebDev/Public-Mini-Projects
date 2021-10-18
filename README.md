@@ -1,6 +1,12 @@
 # Public-Mini-Projects 🚀
 
-## Practice Project #16 - #100DaysOfCode Challenge - Day 16 ✅
+## Practice Project #17 - #100DaysOfCode Challenge - Day 15 ✅
+
+Carousel Component
+
+- All credit goes to the awesome Jonas Schmedtmann for creating this Practice Project in his amazing [HTML5, CSS3 and Web Design course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 🙏 😍 🔥
+
+## Practice Project #16 - #100DaysOfCode Challenge - Day 14 ✅
 
 Created a Markdown Cheatsheet for myself based on these awesome FREE resources:
 
