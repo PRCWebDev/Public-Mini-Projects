@@ -1,5 +1,17 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #19 - #100DaysOfCode Challenge - Day 17 ✅
+
+Pagination Component
+
+- All credit goes to the awesome Jonas Schmedtmann for creating this Practice Project in his amazing [HTML5, CSS3 and Web Design course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 🙏 😍 🔥
+
+## Practice Project #18 - #100DaysOfCode Challenge - Day 16 ✅
+
+Table Component
+
+- All credit goes to the awesome Jonas Schmedtmann for creating this Practice Project in his amazing [HTML5, CSS3 and Web Design course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 🙏 😍 🔥
+
 ## Practice Project #17 - #100DaysOfCode Challenge - Day 15 ✅
 
 Carousel Component
