@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #20 - #100DaysOfCode Challenge - Day 18 ✅
+
+Hero Section
+
+- All credit goes to the awesome Jonas Schmedtmann for creating this Practice Project in his amazing [HTML5, CSS3 and Web Design course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 🙏 😍 🔥
+
 ## Practice Project #19 - #100DaysOfCode Challenge - Day 17 ✅
 
 Pagination Component
