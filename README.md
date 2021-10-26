@@ -6,6 +6,12 @@
 
 - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
+## Practice Project #23 - #100DaysOfCode Challenge - Day 21 ✅
+
+[Ring Of Fire | CSS and SVG Animation Effects](https://youtu.be/avo71iW9mI4)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #21 - #100DaysOfCode Challenge - Day 19 ✅
 
 Web App Layout
