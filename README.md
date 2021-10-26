@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #24 - #100DaysOfCode Challenge - Day 22 ✅
+
+[Pure CSS3 Water Wave Text Animation Effects Using CSS Clip-path](https://youtu.be/Tf6qm5JMUXQ)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #21 - #100DaysOfCode Challenge - Day 19 ✅
 
 Web App Layout
