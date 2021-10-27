@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #26 - #100DaysOfCode Challenge - Day 24 ✅
+
+[CSS Glowing Tubelight Text Animation Effects | CSS Glowing Effects](https://youtu.be/_13a3r6MYeM)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #25 - #100DaysOfCode Challenge - Day 23 ✅
 
 [Pure CSS3 Water Wave Text Animation Effects Using CSS Clip-path](https://youtu.be/Tf6qm5JMUXQ)
@@ -9,6 +15,12 @@
 ## Practice Project #24 - #100DaysOfCode Challenge - Day 22 ✅
 
 [Ring Of Fire | CSS and SVG Animation Effects](https://youtu.be/avo71iW9mI4)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
+## Practice Project #22 - #100DaysOfCode Challenge - Day 20 ✅
+
+[Text Typing CSS Loading Animation Effects | Pure CSS Typewriter Effect](https://youtu.be/9JQq8xsiy4k)
 
 - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
