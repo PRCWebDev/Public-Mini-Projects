@@ -24,6 +24,12 @@
 
 - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
+## Practice Project #23 - #100DaysOfCode Challenge - Day 21 ✅
+
+[Glowing Squid Game Shape Hover Effects using Html & CSS](https://youtu.be/s-j2IFdX6_0)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #22 - #100DaysOfCode Challenge - Day 20 ✅
 
 [Text Typing CSS Loading Animation Effects | Pure CSS Typewriter Effect](https://youtu.be/9JQq8xsiy4k)
