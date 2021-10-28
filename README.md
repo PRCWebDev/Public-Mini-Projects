@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #27 - #100DaysOfCode Challenge - Day 25 ✅
+
+[CSS Soft Box Shadow Effect | Quick CSS Trick for Beginners](https://youtu.be/tqjMC4F7PxA)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #26 - #100DaysOfCode Challenge - Day 24 ✅
 
 [CSS Glowing Tubelight Text Animation Effects | CSS Glowing Effects](https://youtu.be/_13a3r6MYeM)
