@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #28 - #100DaysOfCode Challenge - Day 26 ✅
+
+[Card with Skewed Glowing Border](https://youtu.be/jMbWDcc5oNc)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #27 - #100DaysOfCode Challenge - Day 25 ✅
 
 [CSS Soft Box Shadow Effect | Quick CSS Trick for Beginners](https://youtu.be/tqjMC4F7PxA)
