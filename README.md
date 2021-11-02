@@ -1,5 +1,23 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #31 - #100DaysOfCode Challenge - Day 29 ✅
+
+[CSS 3D Flip Image Hover Effects](https://youtu.be/MCyZ-8-7RY8)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
+## Practice Project #30 - #100DaysOfCode Challenge - Day 28 ✅
+
+[Creative Ribbon Shape](https://youtu.be/D9aHXGb_ABs)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
+## Practice Project #29 - #100DaysOfCode Challenge - Day 27 ✅
+
+[Ripped Paper Effects](https://youtu.be/gwT57jx9KBw)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #28 - #100DaysOfCode Challenge - Day 26 ✅
 
 [Card with Skewed Glowing Border](https://youtu.be/jMbWDcc5oNc)
