@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #32 - #100DaysOfCode Challenge - Day 30 ✅
+
+[CSS Gradient Button Hover Effects | Html CSS](https://youtu.be/88T4KmMq_L4)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #31 - #100DaysOfCode Challenge - Day 29 ✅
 
 [CSS 3D Flip Image Hover Effects](https://youtu.be/MCyZ-8-7RY8)
