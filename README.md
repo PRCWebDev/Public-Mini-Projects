@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #33 - #100DaysOfCode Challenge - Day 31 ✅
+
+[Background-Color Changing Loader CSS Only](https://youtu.be/S1QBg1gMGeM)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #32 - #100DaysOfCode Challenge - Day 30 ✅
 
 [CSS Gradient Button Hover Effects | Html CSS](https://youtu.be/88T4KmMq_L4)
