@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #34 - #100DaysOfCode Challenge - Day 32 ✅
+
+[Happy Diwali CSS Glowing Text Animation](https://youtu.be/fWkzXZCIAuQ)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #33 - #100DaysOfCode Challenge - Day 31 ✅
 
 [Background-Color Changing Loader CSS Only](https://youtu.be/S1QBg1gMGeM)
