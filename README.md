@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #35 - #100DaysOfCode Challenge - Day 33 ✅
+
+[Happy Diwali 2 CSS Glowing Text Animation](https://youtu.be/asv8uirb2R8)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #34 - #100DaysOfCode Challenge - Day 32 ✅
 
 [Happy Diwali CSS Glowing Text Animation](https://youtu.be/fWkzXZCIAuQ)
