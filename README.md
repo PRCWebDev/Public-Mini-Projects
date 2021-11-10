@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #36 - #100DaysOfCode Challenge - Day 34 ✅
+
+[CSS Triple Loading Animation Effect](https://youtu.be/1Aq9OJuS3ok8)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #35 - #100DaysOfCode Challenge - Day 33 ✅
 
 [Happy Diwali 2 CSS Glowing Text Animation](https://youtu.be/asv8uirb2R8)
