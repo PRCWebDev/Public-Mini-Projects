@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #37 - #100DaysOfCode Challenge - Day 35 ✅
+
+[How to Make CSS Zig-Zag Border | Quick CSS Tricks](https://youtu.be/CGdEUmO4ZQQ)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #36 - #100DaysOfCode Challenge - Day 34 ✅
 
 [CSS Triple Loading Animation Effect](https://youtu.be/1Aq9OJuS3ok8)
