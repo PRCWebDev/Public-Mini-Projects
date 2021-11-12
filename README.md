@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #38 - #100DaysOfCode Challenge - Day 36 ✅
+
+[CSS Cards Hover Effects | Html CSS](https://youtu.be/KFmEjQCyfMw)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #37 - #100DaysOfCode Challenge - Day 35 ✅
 
 [How to Make CSS Zig-Zag Border | Quick CSS Tricks](https://youtu.be/CGdEUmO4ZQQ)
