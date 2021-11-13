@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #39 - #100DaysOfCode Challenge - Day 37 ✅
+
+[Responsive Masonry Image Gallery Using Pure HTML & CSS Only](https://youtu.be/RuJyYiRttpI)
+
+- All credit goes to the awesome Mr. Web Designer YT Channel 🙏 😍 🔥
+
 ## Practice Project #38 - #100DaysOfCode Challenge - Day 36 ✅
 
 [CSS Cards Hover Effects | Html CSS](https://youtu.be/KFmEjQCyfMw)
