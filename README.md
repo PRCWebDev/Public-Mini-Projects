@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #41 - #100DaysOfCode Challenge - Day 39 ✅
+
+[Creative CSS Menu Hover Effects 02 | Html CSS Website Menu](https://youtu.be/hW0EVM12b5g)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #40 - #100DaysOfCode Challenge - Day 38 ✅
 
 [Creative CSS Menu Hover Effects | Html CSS Website Menu](https://youtu.be/TPh8fLeahqM)
