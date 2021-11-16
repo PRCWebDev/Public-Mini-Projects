@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #44 - #100DaysOfCode Challenge - Day 42 ✅
+
+[Pure CSS Shooting Star Animation Effect | CSS Only](https://youtu.be/xDTiPkQeR2M)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #43 - #100DaysOfCode Challenge - Day 41 ✅
 
 [Creative CSS Menu Item Hover Effects 04 | Html CSS Website Menu](https://youtu.be/NB-giDS97DU)
