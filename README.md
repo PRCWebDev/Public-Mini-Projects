@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #46 - #100DaysOfCode Challenge - Day 44 ✅
+
+[Creative Loader CSS 01](https://youtu.be/ttWXapXj4cg)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #45 - #100DaysOfCode Challenge - Day 43 ✅
 
 [Ambient Light Cube Animation Effects | 3D CSS Only](https://youtu.be/nOdDtnHWaDo)
