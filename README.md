@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #50 - #100DaysOfCode Challenge - Day 48 ✅
+
+[Creative Loader CSS 05](https://youtu.be/QJfD-q8IoIU)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #49 - #100DaysOfCode Challenge - Day 47 ✅
 
 [Creative Loader CSS 04](https://youtu.be/e1fDShHsPV8)
