@@ -1,5 +1,13 @@
 # Public-Mini-Projects 🚀
 
+##🎉 🎉 Woohoo!! #50ProjectsIn50Days challenge Completed on 22 November 2021 ✅ ✅
+
+## Practice Project #52 - #100DaysOfCode Challenge - Day 50 ✅
+
+[CSS Only Intro Text Animation Effects | Simple Text Animation](https://youtu.be/VircQpNTG1w)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #51 - #100DaysOfCode Challenge - Day 49 ✅
 
 [Creative Loader CSS 06](https://youtu.be/5mmoodDWDHQ)
