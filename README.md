@@ -1,6 +1,12 @@
 # Public-Mini-Projects 🚀
 
-##🎉 🎉 Woohoo!! #50ProjectsIn50Days challenge Completed on 22 November 2021 ✅ ✅
+## Practice Project #53 - #100DaysOfCode Challenge - Day 51 ✅
+
+[Text Portrait 01](https://youtu.be/WE6QTMQ-3r8)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
+## 🎉 🎉 Woohoo!! #50ProjectsIn50Days challenge Completed on 22 November 2021 ✅ ✅
 
 ## Practice Project #52 - #100DaysOfCode Challenge - Day 50 ✅
 
