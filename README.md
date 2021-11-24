@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #54 - #100DaysOfCode Challenge - Day 52 ✅
+
+[Text Portrait 02](https://youtu.be/NLCc1zYBEUU)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #53 - #100DaysOfCode Challenge - Day 51 ✅
 
 [Text Portrait 01](https://youtu.be/WE6QTMQ-3r8)
