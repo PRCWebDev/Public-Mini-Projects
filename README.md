@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #55 - #100DaysOfCode Challenge - Day 53 ✅
+
+[Cracked Skin Portrait](https://youtu.be/VcWZ8VEQcbw)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #54 - #100DaysOfCode Challenge - Day 52 ✅
 
 [Text Portrait 02](https://youtu.be/NLCc1zYBEUU)
