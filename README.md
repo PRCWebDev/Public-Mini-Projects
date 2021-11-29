@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #59 - #100DaysOfCode Challenge - Day 57 ✅
+
+[Text Typing & Border Animation & Hover Effect](https://youtu.be/3wRBJESwarQ)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #58 - #100DaysOfCode Challenge - Day 56 ✅
 
 [3D Flip Button Hover](https://youtu.be/oFfvXFQV9Lo)
