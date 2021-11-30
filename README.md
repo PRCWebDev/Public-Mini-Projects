@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #60 - #100DaysOfCode Challenge - Day 58 ✅
+
+[Creative Card Ribbon Shape 02](https://youtu.be/znBmUqBZ4Jg)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #59 - #100DaysOfCode Challenge - Day 57 ✅
 
 [Text Typing & Border Animation & Hover Effect](https://youtu.be/3wRBJESwarQ)
