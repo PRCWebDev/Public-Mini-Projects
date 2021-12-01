@@ -1,5 +1,9 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #61 - #100DaysOfCode Challenge - Day 59 ✅
+
+[Circular Navigation Part 1 - inspired by this awesome Online Tutorials YT Channel video 🙏 😍 🔥](https://youtu.be/ShPPkZEeLPo)
+
 ## Practice Project #60 - #100DaysOfCode Challenge - Day 58 ✅
 
 [Creative Card Ribbon Shape 02](https://youtu.be/znBmUqBZ4Jg)
