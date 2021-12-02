@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #62 - #100DaysOfCode Challenge - Day 60 ✅
+
+[Box Shadow & Neumorphism](https://youtu.be/b_IUSevJov0)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #61 - #100DaysOfCode Challenge - Day 59 ✅
 
 [Circular Navigation Part 1 - inspired by this awesome Online Tutorials YT Channel video 🙏 😍 🔥](https://youtu.be/ShPPkZEeLPo)
