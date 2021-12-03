@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #63 - #100DaysOfCode Challenge - Day 61 ✅
+
+[Creative Loader CSS 09](https://youtu.be/41tNotMxu1A)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #62 - #100DaysOfCode Challenge - Day 60 ✅
 
 [Box Shadow & Neumorphism](https://youtu.be/b_IUSevJov0)
