@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #66 - #100DaysOfCode Challenge - Day 64 ✅
+
+[Responsive Stacked Cards Hover Effect](https://youtu.be/9ziMhwJU7qw)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #65 - #100DaysOfCode Challenge - Day 63 ✅
 
 [Creative Loader CSS 11](https://youtu.be/XGok4UIqu8E)
