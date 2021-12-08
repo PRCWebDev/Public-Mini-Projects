@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #68 - #100DaysOfCode Challenge - Day 66 ✅
+
+[Responsive Gradient Border Cards](https://youtu.be/1zFlSLD01Uw)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #67 - #100DaysOfCode Challenge - Day 65 ✅
 
 [Responsive Card Hover Effects 01](https://youtu.be/NrxJg0iUaqs)
