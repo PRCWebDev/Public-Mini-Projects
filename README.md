@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #70 - #100DaysOfCode Challenge - Day 68 ✅
+
+[Creative Loader CSS 12](https://youtu.be/v2QMoZz0ZXc)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #69 - #100DaysOfCode Challenge - Day 67 ✅
 
 [Responsive Card Hover Effects 02](https://youtu.be/Vcay_PG2-DM)
