@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #71 - #100DaysOfCode Challenge - Day 69 ✅
+
+[CSS Cards Hover Effects 02](https://youtu.be/uXHTMLc6lqI)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #70 - #100DaysOfCode Challenge - Day 68 ✅
 
 [Creative Loader CSS 12](https://youtu.be/v2QMoZz0ZXc)
