@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #72 - #100DaysOfCode Challenge - Day 70 ✅
+
+[Animated Blob CSS & SVG](https://youtu.be/liW6bDLnuuk)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #71 - #100DaysOfCode Challenge - Day 69 ✅
 
 [CSS Cards Hover Effects 02](https://youtu.be/uXHTMLc6lqI)
