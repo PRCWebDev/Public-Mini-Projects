@@ -1,6 +1,6 @@
 # Public-Mini-Projects 🚀
 
-## Practice Project #73 - #100DaysOfCode Challenge - Day 72 ✅
+## Practice Project #73 - #100DaysOfCode Challenge - Day 71 ✅
 
 [Responsive Card Hover Effects 03](https://youtu.be/60v3PKVjM2Q)
 
