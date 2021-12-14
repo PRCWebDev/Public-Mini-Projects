@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #74 - #100DaysOfCode Challenge - Day 72 ✅
+
+[CSS Custom Animated Checkbox No Image](https://youtu.be/eSz-4bXM32M)
+
+- All credit goes to the awesome Programming By TSH YT Channel 🙏 😍 🔥
+
 ## Practice Project #73 - #100DaysOfCode Challenge - Day 71 ✅
 
 [Responsive Card Hover Effects 03](https://youtu.be/60v3PKVjM2Q)
