@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #75 - #100DaysOfCode Challenge - Day 73 ✅
+
+[CSS Glassmorphism Card 01](https://youtu.be/Y1CXUfZOZ40)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #74 - #100DaysOfCode Challenge - Day 72 ✅
 
 [CSS Custom Animated Checkbox No Image](https://youtu.be/eSz-4bXM32M)
