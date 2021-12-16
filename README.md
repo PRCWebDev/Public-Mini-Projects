@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #76 - #100DaysOfCode Challenge - Day 74 ✅
+
+[Responsive Card Hover Effects 04](https://youtu.be/dTFGFJ8exYc)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #75 - #100DaysOfCode Challenge - Day 73 ✅
 
 [CSS Glassmorphism Card 01](https://youtu.be/Y1CXUfZOZ40)
