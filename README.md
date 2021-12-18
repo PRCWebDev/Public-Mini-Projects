@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #78 - #100DaysOfCode Challenge - Day 76 ✅
+
+[Navbar With Toggle CSS Only](https://youtu.be/a_AFTWbvVwo)
+
+- All credit goes to the awesome Mr. Web Designer YT Channel 🙏 😍 🔥
+
 ## Practice Project #77 - #100DaysOfCode Challenge - Day 75 ✅
 
 [Neumorphic Responsive Keyboard Keys CSS](https://youtu.be/H_vE1mY2j2g)
