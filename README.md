@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #79 - #100DaysOfCode Challenge - Day 77 ✅
+
+[CSS Perpetual Animation Effects 01](https://youtu.be/wic06FA2J2Y)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #78 - #100DaysOfCode Challenge - Day 76 ✅
 
 [Navbar With Toggle CSS Only](https://youtu.be/a_AFTWbvVwo)
