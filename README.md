@@ -1,5 +1,9 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #80 - #100DaysOfCode Challenge - Day 78 ✅
+
+[CSS Perpetual Animation Effects 02](https://youtu.be/TTl7SWzGp6k)
+
 ## Practice Project #79 - #100DaysOfCode Challenge - Day 77 ✅
 
 [CSS Perpetual Animation Effects 01](https://youtu.be/wic06FA2J2Y)
