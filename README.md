@@ -1,8 +1,16 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #81 - #100DaysOfCode Challenge - Day 79 ✅
+
+[Box Shadow Vs Filter Drop Shadow](https://youtu.be/AMEvGef4YCc)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #80 - #100DaysOfCode Challenge - Day 78 ✅
 
 [CSS Perpetual Animation Effects 02](https://youtu.be/TTl7SWzGp6k)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
 
 ## Practice Project #79 - #100DaysOfCode Challenge - Day 77 ✅
 

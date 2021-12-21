@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100vh;
+
+  background: #6e18f3;
+}
+
+.container {
+  position: relative;
+
+  width: 900px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container h2 {
+  font-size: 5em;
+  line-height: 1em;
+
+  padding: 5px 20px;
+}
+
+.container .text1 {
+  color: #fff;
+
+  border-radius: 20px;
+
+  box-shadow: -3px -3px 2px rgba(255, 255, 255, 0.3),
+    5px 5px 5px rgba(0, 0, 0, 0.2), 15px 15px 15px rgba(0, 0, 0, 0.2);
+}
+
+.container .text2 {
+  padding: 40px;
+
+  box-shadow: none;
+
+  border-radius: 40px;
+
+  color: #6e18f3;
+
+  filter: drop-shadow(-3px -3px 2px rgba(255, 255, 255, 0.3))
+    drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.2))
+    drop-shadow(15px 15px 15px rgba(0, 0, 0, 0.2));
+}
+
+.container .box {
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container .img1 {
+  border-radius: 20px;
+
+  box-shadow: -3px -3px 2px rgba(255, 255, 255, 0.3),
+    5px 5px 5px rgba(0, 0, 0, 0.2), 15px 15px 15px rgba(0, 0, 0, 0.2);
+}
+
+.container .img2 {
+  padding: 40px;
+
+  box-shadow: none;
+
+  border-radius: 40px;
+
+  filter: drop-shadow(-3px -3px 2px rgba(255, 255, 255, 0.3))
+    drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.2))
+    drop-shadow(15px 15px 15px rgba(0, 0, 0, 0.2));
+}
