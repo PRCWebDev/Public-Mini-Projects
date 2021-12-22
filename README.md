@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #82 - #100DaysOfCode Challenge - Day 80 ✅
+
+[Responsive Gradient Glowing Glassmorphism Cards](https://youtu.be/M421fR3TYxg)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #81 - #100DaysOfCode Challenge - Day 79 ✅
 
 [Box Shadow Vs Filter Drop Shadow](https://youtu.be/AMEvGef4YCc)
