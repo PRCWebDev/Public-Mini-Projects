@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #83 - #100DaysOfCode Challenge - Day 81 ✅
+
+[3D Foldable Card Hover Effects](https://youtu.be/xDy2UptgdUY)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #82 - #100DaysOfCode Challenge - Day 80 ✅
 
 [Responsive Gradient Glowing Glassmorphism Cards](https://youtu.be/M421fR3TYxg)
