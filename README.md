@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #85 - #100DaysOfCode Challenge - Day 83 ✅
+
+[Responsive Glassmorphism Card Hover Effects 02](https://youtu.be/hv0rNxr1XXk)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #84 - #100DaysOfCode Challenge - Day 82 ✅
 
 [Responsive Glassmorphism Card Hover Effects 01](https://youtu.be/hMitnfIVr9Q)
