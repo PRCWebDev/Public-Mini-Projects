@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #88 - #100DaysOfCode Challenge - Day 86 ✅
+
+[Glowing Checkbox UI CSS Only](https://youtu.be/BVxa2A93hJI)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #87 - #100DaysOfCode Challenge - Day 85 ✅
 
 [CSS Smiley Checkbox](https://youtu.be/Lc1Neq59c-A)
