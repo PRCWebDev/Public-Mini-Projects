@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #89 - #100DaysOfCode Challenge - Day 87 ✅
+
+[CSS Cards Hover Effects 03](https://youtu.be/6U3RrSBjX3I)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #88 - #100DaysOfCode Challenge - Day 86 ✅
 
 [Glowing Checkbox UI CSS Only](https://youtu.be/BVxa2A93hJI)
