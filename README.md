@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #90 - #100DaysOfCode Challenge - Day 88 ✅
+
+[CSS Water Drop Logo](https://youtu.be/GnllGn9Oifs)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #89 - #100DaysOfCode Challenge - Day 87 ✅
 
 [CSS Cards Hover Effects 03](https://youtu.be/6U3RrSBjX3I)
