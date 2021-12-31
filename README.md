@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #91 - #100DaysOfCode Challenge - Day 89 ✅
+
+[CSS Ink Splash Video Effect](https://youtu.be/-ez5V4pZYQk)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #90 - #100DaysOfCode Challenge - Day 88 ✅
 
 [CSS Water Drop Logo](https://youtu.be/GnllGn9Oifs)
