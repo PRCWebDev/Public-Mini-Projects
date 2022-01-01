@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #92 - #100DaysOfCode Challenge - Day 90 ✅
+
+[Image or Video Inside Silhouette CSS](https://youtu.be/l9Me4mro0iQ)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #91 - #100DaysOfCode Challenge - Day 89 ✅
 
 [CSS Ink Splash Video Effect](https://youtu.be/-ez5V4pZYQk)
