@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #93 - #100DaysOfCode Challenge - Day 91 ✅
+
+[Video In Text Background](https://youtu.be/Ykk_BahyhYA)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #92 - #100DaysOfCode Challenge - Day 90 ✅
 
 [Image or Video Inside Silhouette CSS](https://youtu.be/l9Me4mro0iQ)
