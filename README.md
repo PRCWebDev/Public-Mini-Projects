@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #94 - #100DaysOfCode Challenge - Day 92 ✅
+
+[2021-2022 Text Animation](https://youtu.be/2xYN32DOGRE)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #93 - #100DaysOfCode Challenge - Day 91 ✅
 
 [Video In Text Background](https://youtu.be/Ykk_BahyhYA)
