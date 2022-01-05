@@ -2,6 +2,12 @@
 
 ## Practice Project #95 - #100DaysOfCode Challenge - Day 93 ✅
 
+[Non-Rectangular Header CSS Clip-path](https://youtu.be/K7Y8s_J4fJg)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
+## Practice Project #94 - #100DaysOfCode Challenge - Day 92 ✅
+
 [Clip-path Button Hover Effects](https://youtu.be/bdPXAl2mRTA)
 
 - All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
