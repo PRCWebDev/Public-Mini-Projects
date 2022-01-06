@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #97 - #100DaysOfCode Challenge - Day 95 ✅
+
+[Clip-Path Text Scrolling](https://youtu.be/WqZZppQd87M)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #96 - #100DaysOfCode Challenge - Day 94 ✅
 
 [Non-Rectangular Header CSS Clip-path](https://youtu.be/K7Y8s_J4fJg)
