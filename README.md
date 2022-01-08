@@ -1,6 +1,12 @@
 # Public-Mini-Projects 🚀
 
-## Practice Project #97 - #100DaysOfCode Challenge - Day 95 ✅
+## Practice Project #99 - #100DaysOfCode Challenge - Day 97 ✅
+
+[CSS Cards Hover Effects 05](https://youtu.be/yNBObeTWvio)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
+## Practice Project #98 - #100DaysOfCode Challenge - Day 96 ✅
 
 [CSS Cards Hover Effects 04](https://youtu.be/jUByQLfakJ8)
 
