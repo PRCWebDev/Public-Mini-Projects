@@ -1,6 +1,6 @@
 # Public-Mini-Projects 🚀
 
-## #100DaysOfCode Challenge & #100ProjectsIn100Days Completed on 11 January 2022 🎉🎉
+## #100DaysOfCode & #100ProjectsIn100Days Challenges Completed on 11 January 2022 🎉🎉
 
 ## Practice Project #102 - #100DaysOfCode Challenge - Day 100 ✅
 
