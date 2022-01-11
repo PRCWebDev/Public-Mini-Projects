@@ -1,5 +1,11 @@
 # Public-Mini-Projects 🚀
 
+## Practice Project #102 - #100DaysOfCode Challenge - Day 100 ✅
+
+[CSS Pulse & Rocket Animation Effects](https://youtu.be/k58LsQoxZL0)
+
+- All credit goes to the awesome Online Tutorials YT Channel 🙏 😍 🔥
+
 ## Practice Project #101 - #100DaysOfCode Challenge - Day 99 ✅
 
 [Next Level CSS Mousemove Effects](https://youtu.be/FY_gvvZtMSM)
