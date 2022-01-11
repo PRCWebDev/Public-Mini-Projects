@@ -1,5 +1,7 @@
 # Public-Mini-Projects 🚀
 
+## #100DaysOfCode Challenge & #100ProjectsIn100Days Completed on 11 January 2022 🎉🎉
+
 ## Practice Project #102 - #100DaysOfCode Challenge - Day 100 ✅
 
 [CSS Pulse & Rocket Animation Effects](https://youtu.be/k58LsQoxZL0)
